@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel, React**
 
-- 👨‍💻 All of my projects are available at [http://andrydwi.me/](http://andrydwi.me/)
+- 👨‍💻 All of my projects are available at [https://andrydwi.me/](https://andrydwi.me/)
 
 - 📫 How to reach me **andry.dwi.s@gmail.com**
 
