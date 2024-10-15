@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **PT Sentra Vidya Utama**
 
-- 🌱 I’m currently learning **Laravel, Next JS, React, TailwindCSS**
-
-- 👨‍💻 All of my projects are available at [https://andrydwi.me/](https://andrydwi.me/)
+- 🌱 I’m currently learning **Laravel, TailwindCSS, Livewire, AlpineJS**
 
 - 📫 How to reach me **andry.dwi.s@gmail.com**
 
