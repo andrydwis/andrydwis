@@ -10,11 +10,11 @@ I am a dedicated **Fullstack Web Developer** with expertise in **Laravel**, **Po
 ---
 
 ## Contact  
-- **Phone/Whatsapp**: +6285156058404
-- **Address:** Jl. Ra Basuni 150C, Sooko, Mojokerto, Jawa Timur  
+- **Phone/Whatsapp**: [+6285156058404](wa.me/6285156058404)
 - **Email:** andry.dwi.s@gmail.com  
 - **LinkedIn:** [linkedin.com/in/andry-dwi-suharmanto-09a964127/](https://www.linkedin.com/in/andry-dwi-suharmanto-09a964127/)  
-- **GitHub:** [github.com/andrydwis](https://github.com/andrydwis)  
+- **GitHub:** [github.com/andrydwis](https://github.com/andrydwis)
+- **Address:** Jl. Ra Basuni 150C, Sooko, Mojokerto, Jawa Timur  
 
 ---
 
