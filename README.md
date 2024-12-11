@@ -4,9 +4,13 @@
 
 ## Fullstack Web Developer
 
+## About Me  
+I am a dedicated **Fullstack Web Developer** with expertise in **Laravel**, **PostgreSQL**, **Tailwind**, and **Python**. I specialize in building scalable applications, optimizing legacy systems, and creating user-friendly interfaces. Passionate about clean code and collaboration, I enjoy mentoring teammates, solving challenges, and contributing ideas to enhance functionality and user experience.
+
 ---
 
 ## Contact  
+- **Phone/Whatsapp**: +6285156058404
 - **Address:** Jl. Ra Basuni 150C, Sooko, Mojokerto, Jawa Timur  
 - **Email:** andry.dwi.s@gmail.com  
 - **LinkedIn:** [linkedin.com/in/andry-dwi-suharmanto-09a964127/](https://www.linkedin.com/in/andry-dwi-suharmanto-09a964127/)  
@@ -15,21 +19,10 @@
 ---
 
 ## Skills  
-- HTML, CSS, JS, PHP  
-- Laravel, Python, Tailwind  
-- PostgreSQL, Algolia  
-- Data Warehousing (ClickHouse)  
-
----
-
-## Education  
-### Politeknik Negeri Malang  
-**Informatics Management Study Program (2018 - 2021)**  
-- GPA: 3.83  
-- Major: Information Technology  
-
-### SMAN 1 Sooko  
-**Science Major (2015 - 2018)**  
+- HTML, CSS, JS, PHP, Pyhton
+- Laravel, Livewire, Tailwind, React, AlpineJS
+- MySQL, PostgreSQL, Algolia  
+- Data Warehouse (ClickHouse)  
 
 ---
 
@@ -56,11 +49,12 @@
 
 ---
 
-## Awards  
+## Education  
+### Politeknik Negeri Malang  
+**Informatics Management Study Program (2018 - 2021)**  
+- GPA: 3.83  
+- Major: Information Technology  
 - 1st Winner of Game Development IT Competition (2020) – POLINEMA  
 - 1st Winner of Big Data Online Workshop (2020) – 4th Southeast Asia Creative Camp SEAMEO  
 
 ---
-
-## About Me  
-I am a dedicated **Fullstack Web Developer** with expertise in **Laravel**, **PostgreSQL**, **Tailwind**, and **Python**. I specialize in building scalable applications, optimizing legacy systems, and creating user-friendly interfaces. Passionate about clean code and collaboration, I enjoy mentoring teammates, solving challenges, and contributing ideas to enhance functionality and user experience.
