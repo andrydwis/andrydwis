@@ -26,7 +26,7 @@ I am a dedicated **Fullstack Web Developer** with expertise in **Laravel**, **Po
 
 ---
 
-## Experience  
+## Experiences
 ### Fullstack Web Developer  
 **Sevima (July 2021 - Present)**  
 - Developed and maintained web applications using Laravel, PostgreSQL, Algolia, and Tailwind.  
